@@ -1,4 +1,4 @@
-Language_ru-RU
+Language [ru-RU]
 ==============
 
 Russian language for Balloons
